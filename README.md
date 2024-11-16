@@ -55,7 +55,7 @@ npm -v
 
 ## Ejecutar y seguir cada paso descrito a continuación
 
-1. Ejecuta el siguiente comando en tu terminal para inicializar un proyecto en la carpeta actual. Esto generará un archivo `package.json`:
+1. Ejecuta el siguiente comando en tu terminal para inicializar un proyecto (en la carpeta donde clonaste el proyecto). Esto generará un archivo `package.json`:
 
 
 npm init
