@@ -1,0 +1,9 @@
+node --version
+npm init
+npm install cypress --save-dev --force  
+npx cypress open
+--Configurar E2E Testing
+--Clic en continuar
+--Seleccionar un navegador
+--Clic en start E2E Testing
+
